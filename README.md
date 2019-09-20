@@ -1,4 +1,4 @@
-# codewars-challenges
+# codewars
 Codewars
 
 Problem: 
